@@ -1,0 +1,3 @@
+# Project exclude paths
+/.aws-sam/build/ProcessPaymentFunction/node_modules/
+/src/order/ProcessPaymentFunction/node_modules/
